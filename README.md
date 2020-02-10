@@ -6,7 +6,7 @@ PrintService is a generic white-labeled, cloud-hosted system used for printing d
 * PrintService Client (Available for Win32 & Win64)
 
 ## Pricing
-A base fee of **£10+VAT** per month is required to maintain an active account.
+A base fee of **£10+VAT** per month is required to maintain an active account. This base fee is charged per installation of the software.
  - Each month the first 1000 document print jobs are included.
  - Every additional batch of 1000 documents costs **£1.50+VAT**
 
